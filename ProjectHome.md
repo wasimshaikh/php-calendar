@@ -1,0 +1,3 @@
+PHP-Calendar is an open source web calendar. It is intended to provide a simple solution with an intuitive interface. It is targeted to groups and individuals with the need to track events with an emphasis on group collaboration. In that same collaborative spirit, the source for PHP-Calendar is available under the open source Apache license to facilitate colaborative development.
+
+Code and issues are being managed on our github page. Downloads have been moved back to SourceForge since Google no longer supports them here. http://github.com/sproctor/php-calendar/releases
